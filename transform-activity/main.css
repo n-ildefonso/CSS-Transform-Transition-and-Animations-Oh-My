@@ -10,6 +10,7 @@ main {
   margin: auto;
   display: flex;
   align-items: center;
+  transform: translate( 35px, 25px) rotate(40 deg);
 }
 
 main > div {
